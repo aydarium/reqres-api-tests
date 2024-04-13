@@ -10,7 +10,7 @@
 - [Покрытый функционал](#male_detective-покрытый-функционал)
 - [Локальный запуск тестов](#arrow_forward-локальный-запуск-тестов)
 - [Сборка в Jenkins](#-сборка-в-jenkins)
-- [Пример Allure-отчета](#-пример-allure-отчёта)
+- [Пример Allure-отчёта](#-пример-allure-отчёта)
 - [Интеграция с Allure TestOps](#-интеграция-с-allure-testOps)
 - [Интеграция с Jira](#-интеграция-с-jira)
 - [Уведомления в Telegram с использованием бота](#-уведомления-в-telegram-с-использованием-бота)
@@ -63,7 +63,7 @@ gradle clean test
 </p>
 После выполнения сборки, в блоке <code>Build History</code> напротив номера сборки появятся значки <code>Allure Report</code> и <code>Allure TestOps</code>, при клике на которые откроется страница с сформированным html-отчетом и тестовой документацией соответственно.
 
-## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/logos/AllureReport.svg"> [Пример](https://jenkins.autotests.cloud/view/C24/job/C24-MolokoVelosiped-reqres-api-tests/3/allure/) Allure-отчета
+## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/logos/AllureReport.svg"> [Пример](https://jenkins.autotests.cloud/view/C24/job/C24-MolokoVelosiped-reqres-api-tests/3/allure/) Allure-отчёта
 
 <p align="center">
 <img title="Общий вид отчёта Allure" src="media/screencaps/AllureOverview.png">
