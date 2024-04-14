@@ -96,11 +96,14 @@ gradle clean test
 <img title="Дэшборд Allure TestOps" src="media/screencaps/TestOpsDashboard.png">
 </p>
 
-### Результат выполнения автотеста
+### Тест-кейс, сгенерированный из автотеста
 
 <p align="center">
 <img title="Результаты теста в Allure TestOps №1" src="media/screencaps/TestOpsResults1.png">
 </p>
+
+### История выполнения автотеста
+
 <p align="center">
 <img title="Результаты теста в Allure TestOps №2" src="media/screencaps/TestOpsResults2.png">
 </p>
